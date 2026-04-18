@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 # Noah Clark - IT / Cybersecurity Lab Portfolio
 
-<!--
-**NoahBClark/NoahBClark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains hands-on labs focused on systems administration, cloud infrastructure, and security operations. These projects were built to strengthen my technical skills in support of cleared IT and cybersecurity roles.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Windows Administration
+- Active Directory
+- AWS Cloud
+- SIEM / Log Analysis
+- Security Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Certifications
+- CompTIA Security+
+- Active Top Secret Clearance
+
+## Labs
+- Active Directory Home Lab
+- AWS Security Lab
+- SIEM Detection Lab
