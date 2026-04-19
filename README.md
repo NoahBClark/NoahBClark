@@ -8,6 +8,7 @@ This repository contains hands-on labs focused on systems administration, cloud 
 - AWS Cloud
 - SIEM / Log Analysis
 - Security Operations
+- Splunk
 
 ## Current Certifications
 - CompTIA Security+
